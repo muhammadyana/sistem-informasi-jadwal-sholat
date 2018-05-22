@@ -12,3 +12,8 @@ Fitur :
 Untuk informasi lebih lanjut silahkan kunjungi http://simajid.id 
 .
 Tugas Akhir By Muhammad Yana Mulyana - Sistem Komputer - Universitas Komputer Indonesia
+
+
+#### Admin
+Untuk mendapatkan admin dari aplikasi ini silahkan email ke muhammadyanaa@gmail.com. 
+Terima kasih, semoga bermanfaat :) 

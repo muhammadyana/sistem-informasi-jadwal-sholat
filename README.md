@@ -17,6 +17,7 @@ Fitur :
 .
 Untuk informasi lebih lanjut silahkan kunjungi http://simajid.id  atau https://siforlat.herokuapp.com/users/sign_in
 .
+
 Tugas Akhir By Muhammad Yana Mulyana - Sistem Komputer - Universitas Komputer Indonesia
 
 

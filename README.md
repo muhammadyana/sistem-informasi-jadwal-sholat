@@ -1,5 +1,6 @@
 # sistem-informasi-jadwal-sholat
-MOVE TO [Sistem Informasji Jadwal Sholat API](https://github.com/muhammadyana/sistem-informasi-jadwal-sholat-API "Sistem Informasji Jadwal Sholat API")
+API JADWAL SHOLAT [Sistem Informasji Jadwal Sholat API](https://github.com/muhammadyana/sistem-informasi-jadwal-sholat-API "Sistem Informasji Jadwal Sholat API")
+ADMIN DASHBOARD (Still progress use Ruby on Rails) [Sistem Informasji Jadwal Sholat Dashboard](https://github.com/muhammadyana/sistem-informasi-jadwal-sholat-siforlat "Sistem Informasji Jadwal Sholat Dashboard")
 
 Sistem Informasi Jadwal Sholat. Pengganti jadwal sholat berbentuk elektronika dengan web base dan android base. It free for all mosque or person. 
 Fitur : 

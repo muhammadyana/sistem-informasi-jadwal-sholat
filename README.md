@@ -1,9 +1,9 @@
 # sistem-informasi-jadwal-sholat
-Aplikasi ini sedang dibuat ulang menggunakan Ruby on Rails, NodeJs dan Android studio, untuk source code silahkan klik link d ibawah ini
+**Aplikasi ini sedang dibuat ulang menggunakan Ruby on Rails, NodeJs dan Android studio, untuk source code silahkan klik link d ibawah ini**
 
-- API JADWAL SHOLAT (NodeJs) [Sistem Informasji Jadwal Sholat API](https://github.com/muhammadyana/sistem-informasi-jadwal-sholat-API "Sistem Informasji Jadwal Sholat API")
+- **API JADWAL SHOLAT (NodeJs)** [Sistem Informasi Jadwal Sholat API](https://github.com/muhammadyana/sistem-informasi-jadwal-sholat-API "Sistem Informasji Jadwal Sholat (SIFORLAT) API")
 
-- ADMIN DASHBOARD (Still progress use Ruby on Rails) [Sistem Informasji Jadwal Sholat Dashboard](https://github.com/muhammadyana/sistem-informasi-jadwal-sholat-siforlat "Sistem Informasji Jadwal Sholat Dashboard")
+- **ADMIN DASHBOARD (Still progress use Ruby on Rails)** [Sistem Informasi Jadwal Sholat Dashboard](https://github.com/muhammadyana/sistem-informasi-jadwal-sholat-siforlat "Sistem Informasji Jadwal Sholat Dashboard (SIFORLAT)")
 
 Sistem Informasi Jadwal Sholat. Pengganti jadwal sholat berbentuk elektronika dengan web base dan android base. It free for all mosque or person. 
 Fitur : 
@@ -15,7 +15,7 @@ Fitur :
 - Countdown ke waktu iqomah
 - Menampilkan jadwal sholat lima waktu dalam sebulan
 .
-Untuk informasi lebih lanjut silahkan kunjungi http://simajid.id 
+Untuk informasi lebih lanjut silahkan kunjungi http://simajid.id  atau https://siforlat.herokuapp.com/users/sign_in
 .
 Tugas Akhir By Muhammad Yana Mulyana - Sistem Komputer - Universitas Komputer Indonesia
 

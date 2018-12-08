@@ -17,7 +17,7 @@ Fitur :
 - Countdown ke waktu iqomah
 - Menampilkan jadwal sholat lima waktu dalam sebulan
 .
-Untuk informasi lebih lanjut silahkan kunjungi http://simajid.id  atau https://siforlat.herokuapp.com/users/sign_in
+Untuk informasi lebih lanjut silahkan kunjungi http://simajid.id  atau https://siforlat.com
 .
 
 Tugas Akhir By Muhammad Yana Mulyana - Sistem Komputer - Universitas Komputer Indonesia

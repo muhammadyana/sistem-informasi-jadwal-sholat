@@ -5,7 +5,7 @@
 
 - **ADMIN DASHBOARD (Still progress use Ruby on Rails)** [Sistem Informasi Jadwal Sholat Dashboard](https://github.com/muhammadyana/sistem-informasi-jadwal-sholat-siforlat "Sistem Informasji Jadwal Sholat Dashboard (SIFORLAT)")
 
-- **Android (Still Progress)**
+- **Android (Still Progress)** [Sistem Informasi Jadwal Sholat Dashboard](https://github.com/flasharifin/Sistem-Informasi-Jadwal-Sholat-Mobile-App "Sistem Informasji Jadwal Sholat Mobile App by Mochamad Arifin")
 
 Sistem Informasi Jadwal Sholat. Pengganti jadwal sholat berbentuk elektronika dengan web base dan android base. It free for all mosque or person. 
 Fitur : 

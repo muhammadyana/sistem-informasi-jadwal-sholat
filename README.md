@@ -20,7 +20,7 @@ Fitur :
 Untuk informasi lebih lanjut silahkan kunjungi https://siforlat.com
 .
 
-Tugas Akhir By Muhammad Yana Mulyana - Sistem Komputer - Universitas Komputer Indonesia
+<!-- Tugas Akhir By Muhammad Yana Mulyana - Sistem Komputer - Universitas Komputer Indonesia -->
 
 
 #### Admin

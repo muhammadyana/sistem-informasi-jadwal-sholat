@@ -24,5 +24,5 @@ Tugas Akhir By Muhammad Yana Mulyana - Sistem Komputer - Universitas Komputer In
 
 
 #### Admin
-Untuk mendapatkan admin dari aplikasi ini silahkan email ke muhammadyanaa@gmail.com atau chat ke [Telegram](http://t.me/muhammadyana "Telegram")
+Untuk mendapatkan admin dari aplikasi ini silahkan email ke muhammadyanaa@gmail.com atau chat ke [Telegram](http://t.me/muhammadyana "Telegram").
 Terima kasih, semoga bermanfaat :) 

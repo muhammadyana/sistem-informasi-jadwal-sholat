@@ -24,5 +24,5 @@ Untuk informasi lebih lanjut silahkan kunjungi https://siforlat.com
 
 
 #### Admin
-Untuk mendapatkan admin dari aplikasi ini silahkan email ke muhammadyanaa@gmail.com atau chat ke [Telegram](http://t.me/muhammadyana "Telegram").
+Untuk mendapatkan admin dari aplikasi ini silahkan email ke hello@muhammadyana.me atau chat ke [Telegram](http://t.me/muhammadyana "Telegram").
 Terima kasih, semoga bermanfaat :) 

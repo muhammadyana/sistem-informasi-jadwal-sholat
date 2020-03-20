@@ -21,8 +21,3 @@ Untuk informasi lebih lanjut silahkan kunjungi https://siforlat.com
 .
 
 <!-- Tugas Akhir By Muhammad Yana Mulyana - Sistem Komputer - Universitas Komputer Indonesia -->
-
-
-#### Admin
-Untuk mendapatkan admin dari aplikasi ini silahkan email ke hello@muhammadyana.me atau chat ke [Telegram](http://t.me/muhammadyana "Telegram").
-Terima kasih, semoga bermanfaat :) 
